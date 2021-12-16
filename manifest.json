@@ -1,0 +1,19 @@
+{
+  "name": "eeclass ppt2pdf downloader",
+  "version": "2021.12",
+  "author": "Alan Li",
+  "description": "Append download link to any course ppt",
+  "permissions": [],
+  "content_scripts": [
+    {
+      "matches": [
+        "*://ncueeclass.ncu.edu.tw/media/doc/*"
+      ],
+      "js": [
+        "jspdf/jspdf.umd.min.js",
+        "js/content_script.js"
+      ]
+    }
+  ],
+  "manifest_version": 2
+}
