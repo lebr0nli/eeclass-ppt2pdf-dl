@@ -8,7 +8,7 @@ eeclass ppt to pdf downloader
 
 所以索性就寫了一個把eeclass的線上ppt轉pdf的Chrome Extension
 
-> 雖然這樣一來，終於可以直接在pdf上做筆記了，但由於原理是直接把圖片轉成pdf，解析度沒有非常好，而且pdf裡的文字與無法直接在裝置上選取/複製:(
+> 這樣一來，雖然可以直接在pdf上做筆記了，但由於原理是把線上的圖片轉成pdf，所以還是有一些缺點，比方說解析度沒有非常好、pdf裡的文字無法直接在裝置上選取/複製:(
 
 ## Demo
 
