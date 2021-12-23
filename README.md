@@ -28,13 +28,15 @@ eeclass ppt to pdf downloader
 
 ## Usage
 
-1. Open `chrome://extensions` in a new tab.
+1. `git clone https://github.com/lebr0nli/eeclass-ppt2pdf-dl.git` or [download the zip](https://github.com/lebr0nli/eeclass-ppt2pdf-dl/archive/refs/heads/main.zip)
 
-2. Enable `"Developer mode"` at the top-right.
+2. Open `chrome://extensions` in a new tab.
 
-3. Drag this folder(`eeclass-ppt2pdf-dl/`) into the page or click the `"Load unpacked"` button that just appeared then select the folder.
+3. Enable `"Developer mode"` at the top-right.
 
-4. Enjoy!
+4. Drag this folder(`eeclass-ppt2pdf-dl/`) into the page or click the `"Load unpacked"` button that just appeared then select the folder.
+
+5. Enjoy!
 
 ## Disclaimer & Warning
 
