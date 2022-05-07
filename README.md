@@ -20,9 +20,9 @@ eeclass ppt to pdf downloader
 
 ![After](/demo/After1.png)
 
-- After (iOS)
+- After (iOS/iPadOS)
 
-![After (iOS)](/demo/After2.png)
+![After (iOS/iPadOS)](/demo/After2.png)
 
 - Result
 
@@ -30,11 +30,11 @@ eeclass ppt to pdf downloader
 
 ![Result](/demo/Result2.png)
 
-- Result (iOS)
+- Result (iOS/iPadOS)
 
-![Result (iOS)](/demo/Result3.png)
+![Result (iOS/iPadOS)](/demo/Result3.png)
 
-![Result (iOS)](/demo/Result4.png)
+![Result (iOS/iPadOS)](/demo/Result4.png)
 
 ## Usage (Chrome, Edge)
 
@@ -48,7 +48,7 @@ eeclass ppt to pdf downloader
 
 5. Enjoy!
 
-## Usage (iOS Safari)
+## Usage (iOS/iPadOS Safari)
 
 1. Download [userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)
 
