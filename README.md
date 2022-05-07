@@ -26,17 +26,27 @@ eeclass ppt to pdf downloader
 
 ![1](/demo/Result2.png)
 
-## Usage
+## Usage (Chrome, Edge)
 
 1. `git clone https://github.com/lebr0nli/eeclass-ppt2pdf-dl.git` or [download the zip](https://github.com/lebr0nli/eeclass-ppt2pdf-dl/archive/refs/heads/main.zip)
 
-2. Open `chrome://extensions` in a new tab.
+2. Open `chrome://extensions` or `edge://extensions` in a new tab.
 
-3. Enable `"Developer mode"` at the top-right.
+3. Enable `"Developer mode"` at the top-right of your Chrome or left of your Edge.
 
 4. Drag this folder(`eeclass-ppt2pdf-dl/`) into the page or click the `"Load unpacked"` button that just appeared then select the folder.
 
 5. Enjoy!
+
+## Usage (iOS Safari)
+
+1. Download [userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)
+
+2. Read the [doc](https://github.com/quoid/userscripts#userscripts-safari) of userscript and enable userscript
+
+3. Download /userscripts/eeclass-ppt2pdf-dl.js to your userscript directory
+
+4. Enjoy!
 
 ## Disclaimer & Warning
 
