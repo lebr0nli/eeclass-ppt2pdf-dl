@@ -3,6 +3,7 @@
 // @description Append download link to any course ppt
 // @match       *://ncueeclass.ncu.edu.tw/media/doc/*
 // @version 2022.05
+// @updateURL https://raw.githubusercontent.com/lebr0nli/eeclass-ppt2pdf-dl/main/userscripts/eeclass-ppt2pdf-dl.js
 // ==/UserScript==
 
 try {

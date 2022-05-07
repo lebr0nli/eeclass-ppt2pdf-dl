@@ -44,7 +44,7 @@ eeclass ppt to pdf downloader
 
 2. Read the [doc](https://github.com/quoid/userscripts#userscripts-safari) of userscript and enable userscript
 
-3. Download /userscripts/eeclass-ppt2pdf-dl.js to your userscript directory
+3. Download [/userscripts/eeclass-ppt2pdf-dl.js](https://raw.githubusercontent.com/lebr0nli/eeclass-ppt2pdf-dl/main/userscripts/eeclass-ppt2pdf-dl.js) to your userscript directory
 
 4. Enjoy!
 
