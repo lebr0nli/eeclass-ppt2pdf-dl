@@ -14,17 +14,27 @@ eeclass ppt to pdf downloader
 
 - Before
 
-![1](/demo/Before.png)
+![Before](/demo/Before.png)
 
 - After
 
-![1](/demo/After.png)
+![After](/demo/After1.png)
+
+- After (iOS)
+
+![After (iOS)](/demo/After2.png)
 
 - Result
 
-![1](/demo/Result1.png)
+![Result](/demo/Result1.png)
 
-![1](/demo/Result2.png)
+![Result](/demo/Result2.png)
+
+- Result (iOS)
+
+![Result (iOS)](/demo/Result3.png)
+
+![Result (iOS)](/demo/Result4.png)
 
 ## Usage (Chrome, Edge)
 
