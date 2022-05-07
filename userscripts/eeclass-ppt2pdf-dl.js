@@ -10,7 +10,7 @@ try {
     const jsPDFURL = window.location.protocol + '//cdn.jsdelivr.net/npm/jspdf@2.5.1/dist/jspdf.umd.min.js';
     import(jsPDFURL).then(() => {
         if (window.jspdf === undefined) {
-            throw 'Seems jsPDF did not import successfully, contact @lebr0nli at https://github.com/lebr0nli/eeclass-ppt2pdf-dl/issues for help';
+            throw 'Seems jsPDF did not import successfully';
         }
         const { jsPDF } = window.jspdf;
 
@@ -45,5 +45,6 @@ try {
     })
 } catch (e) {
     alert(e);
+    alert('Contact @lebr0nli at https://github.com/lebr0nli/eeclass-ppt2pdf-dl/issues for help');
 }
 
