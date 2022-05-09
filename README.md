@@ -52,9 +52,9 @@ eeclass ppt to pdf downloader
 
 1. Download [userscripts](https://apps.apple.com/us/app/userscripts/id1463298887)
 
-2. Read the [doc](https://github.com/quoid/userscripts#userscripts-safari) of userscript and enable userscript
+2. Read the [docs](https://github.com/quoid/userscripts#userscripts-safari) of userscripts and enable userscripts on your device
 
-3. Download [/userscripts/eeclass-ppt2pdf-dl.js](https://raw.githubusercontent.com/lebr0nli/eeclass-ppt2pdf-dl/main/userscripts/eeclass-ppt2pdf-dl.js) to your userscript directory
+3. Open [userscripts/eeclass-ppt2pdf-dl.user.js](https://raw.githubusercontent.com/lebr0nli/eeclass-ppt2pdf-dl/main/userscripts/eeclass-ppt2pdf-dl.user.js) in a new tab and open userscripts in your safari to download this extension
 
 4. Enjoy!
 
